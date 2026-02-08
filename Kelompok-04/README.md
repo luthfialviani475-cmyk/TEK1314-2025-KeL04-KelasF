@@ -9,4 +9,5 @@
 - **Target:** Instalasi CyberOps VM & Security Onion.
 - **Update 3 Febuari 2026:** - Berhasil instalasi VM di Laptop Altof Zufar Musyaffa.
 - Kendala: tidak ada
-- Artefak: [Bukti Screenshot Instalasi VM](Documentation/images/vm-laptop-altof.jpeg)
+- Artefak: [Bukti Screenshot Instalasi VM](Documentation/images/vm-laptop-altof.png)
+
