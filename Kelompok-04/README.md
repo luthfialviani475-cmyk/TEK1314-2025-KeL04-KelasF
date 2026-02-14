@@ -7,7 +7,8 @@
 ## Log Aktivitas Mingguan 
 ### Minggu 1-2: Fase Setup 
 - **Target:** Instalasi CyberOps VM & Security Onion.
-- **Update 8 Febuari 2026:** - Berhasil instalasi VM di Laptop Altof Zufar Musyaffa.
+- **Update 8 Febuari 2026:**
+- Berhasil instalasi VM di Laptop Altof Zufar Musyaffa dan Luthfi Alviani
 - Kendala: tidak ada
 - Artefak:
   [Bukti Screenshot Instalasi VM Utama](Documentation/images/vm-utama.png)
