@@ -33,3 +33,15 @@
 | Hostname   | Role        | IP Address     | Operating System |
 |------------|------------|---------------|------------------|
 | monitor-k4 | IDS / SIEM | 192.168.4.5   | Security Onion   |
+
+---
+
+## Port Plan (Data Integrity Shield Scenario)
+
+| Service            | Port  | Protocol | Keterangan                          |
+|--------------------|-------|----------|--------------------------------------|
+| SMB (Samba)        | 445   | TCP      | Akses file sharing utama (Target)    |
+| NetBIOS Session    | 139   | TCP      | Dukungan komunikasi SMB lama         |
+| SSH                | 22    | TCP      | Remote management server             |
+| Elastic / SIEM     | 5601  | TCP      | Monitoring dashboard (Security Onion) |
+| MySQL (Optional)   | 3306  | TCP      | Jika menggunakan database tambahan   |
