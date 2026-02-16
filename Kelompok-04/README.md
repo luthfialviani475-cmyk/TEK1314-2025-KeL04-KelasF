@@ -1,5 +1,6 @@
 # Logbook Proyek PBL Keamanan Siber - Kelompok 4
 **Skenario:** Data Integrity (NAS/Samba)
+
 **Anggota:** 
 1. Luthfi Alviani (J0404231023) - Lead Analyst 
 2. Althof Zufar Musyaffa (J0404231119) - Security Engineer 
@@ -16,7 +17,7 @@
 
 ### Update Minggu ke-3 (Fase Design)
 - **Target:** Perancangan arsitektur jaringan dan skema IP Address.
-- **Update 14 Febuari 2026:**
+- **Update 16 Febuari 2026:**
 - Membuat desain topologi jaringan yang terdiri dari Attacker Node, Target File Server (Samba), dan Monitoring Node (Security Onion).
 - Menentukan subnet network dan pembagian IP Address statis untuk setiap node.
 - Menyusun tabel IP Address (ip_plan.md) sesuai segmen jaringan yang telah ditentukan.
