@@ -22,8 +22,8 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
 - Berhasil instalasi VM di Laptop Altof Zufar Musyaffa dan Luthfi Alviani
 - Kendala: tidak ada
 - Artefak:
-  [Bukti Screenshot Instalasi VM Utama](Documentation/images/vm-utama.png)
-  [Bukti Screenshot Instalasi VM Backup](Documentation/images/vm-backup.png)
+  [Bukti Screenshot Instalasi VM Utama](Kelompok-04/Documentation/images/vm-utama.png)
+  [Bukti Screenshot Instalasi VM Backup](Kelompok-04/Documentation/images/vm-backup.png)
 
 ### Update Minggu ke-3 (Fase Design)
 - **Target:** Perancangan arsitektur jaringan dan skema IP Address.
@@ -36,8 +36,8 @@ Melalui skenario ini, diharapkan dapat dipahami bagaimana serangan terhadap inte
   - Target Server: Ubuntu Server (Samba File Server)
   - Monitoring Node: Security Onion
 - Status: **Fase Design Selesai.**
-  - 📄 [IP Address Plan](docs/design/ip_plan.md)
-  - 🖼️ [Network Topology](docs/design/topology.png)
+  - 📄 [IP Address Plan](Kelompok-04/docs/design/ip_plan.md)
+  - 🖼️ [Network Topology](Kelompok-04/docs/design/topology.png)
 
 
 
